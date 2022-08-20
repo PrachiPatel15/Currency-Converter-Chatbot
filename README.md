@@ -11,3 +11,8 @@
 ## How to use this Chatbot:
 - This bot is integrated with Telegram.
 - __Step-1__ : Open Telegram and search for **"Tostybread"**
+  - You will see **"Alexbot"**.
+  - ![]()
+  - Click on start and you can have conversation.
+- __Step-2__ : You can ask for any currency and it will convert it into desired one.
+  - ![]()
