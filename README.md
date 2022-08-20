@@ -12,7 +12,10 @@
 - This bot is integrated with Telegram.
 - __Step-1__ : Open Telegram and search for **"Tostybread"**
   - You will see **"Alexbot"**.
-  - ![]()
+  - ![](https://github.com/PrachiPatel15/Currency-Converter-Chatbot/blob/main/chatbot-1.png)
   - Click on start and you can have conversation.
 - __Step-2__ : You can ask for any currency and it will convert it into desired one.
-  - ![]()
+  - ![](https://github.com/PrachiPatel15/Currency-Converter-Chatbot/blob/main/chatbot-2.png)
+
+- This currency converter chatbot uses API ![](https://www.currencyconverterapi.com/)
+  - You can get the free API key and ask for any conversion
