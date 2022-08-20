@@ -17,5 +17,6 @@
 - __Step-2__ : You can ask for any currency and it will convert it into desired one.
   - ![](https://github.com/PrachiPatel15/Currency-Converter-Chatbot/blob/main/chatbot-2.png)
 
-- This currency converter chatbot uses API(https://www.currencyconverterapi.com/)
+- This currency converter chatbot uses API named **"currencyconverterapi"**
+  - ![](https://www.currencyconverterapi.com/)
   - You can get the free API key and ask for any conversion
